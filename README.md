@@ -30,3 +30,6 @@ This repository contains a complete, beginner-friendly JavaFX course presented t
 | 22 | Key Events                        | Detect keyboard key presses for interaction or shortcuts.                                                   |
 | 23 | Animations                        | Animate elements like movement, fade, scale, and rotate effects.                                            |
 | 24 | MediaView                         | Play video or audio media in the application.                                                               |
+
+
+You can use Scene Builder to design the user interface (UI) easily, then connect the UI with Java code for functionality.
