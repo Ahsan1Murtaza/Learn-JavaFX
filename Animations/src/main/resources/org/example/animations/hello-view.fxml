@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.animations.HelloController">
+   <children>
+      <Circle fx:id="myCircle" fill="DODGERBLUE" layoutX="39.0" layoutY="29.0" radius="15.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle fx:id="myRectangle" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="66.0" layoutX="70.0" layoutY="136.0" stroke="BLACK" strokeType="INSIDE" width="81.0" />
+   </children>
+</AnchorPane>
