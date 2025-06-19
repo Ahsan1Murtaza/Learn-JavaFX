@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.slider.HelloController">
+   <children>
+      <Slider fx:id="mySlider" layoutX="208.0" layoutY="32.0" majorTickUnit="10.0" orientation="VERTICAL" prefHeight="349.0" prefWidth="14.0" showTickLabels="true" showTickMarks="true" value="50.0" />
+      <Label fx:id="myLabel" layoutX="286.0" layoutY="198.0" text="Label" />
+   </children>
+</AnchorPane>
